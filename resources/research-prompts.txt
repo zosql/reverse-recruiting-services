@@ -1,0 +1,9 @@
+SIRAT SEARCH | FREE AI RESEARCH STARTER
+
+PROMPT 1: ROLE EXPANSION
+Based on my experience, target roles, geography, seniority and constraints below, identify plausible job title variations. Group by direct fit, adjacent fit and exploratory fit. Explain the evidence for each group. Do not invent experience, credentials, salary or eligibility. Return title, rationale, relevant industry and search terms. Ask me to verify uncertain assumptions.
+[Paste a privacy-filtered career brief]
+
+PROMPT 2: SOURCE-VERIFIED VACANCY RESEARCH
+If you have live search access, investigate the title and city combinations I provide. Look for employer career sites, ATS listings and hiring posts from the last 90 days. Return role, company, location, original source URL, posting date if documented, application URL, and verification status. Deduplicate by employer, title and requisition where available. Separate verified active listings from unconfirmed or closed listings. Do not treat Google estimated hit counts as job vacancy counts. State coverage limitations and date checked. If you lack live access, provide search strings and a research procedure instead of invented listings.
+[Paste roles and markets]
